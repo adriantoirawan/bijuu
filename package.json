@@ -1,5 +1,5 @@
 {
-  "name": "bijuu",
+  "name": "@adriantoirawan/bijuu",
   "version": "0.0.1",
   "description": "Hacktiv8 Live Code Interactive Learning Companion",
   "main": "bin/index.js",
