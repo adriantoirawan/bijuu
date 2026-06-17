@@ -1,0 +1,29 @@
+{
+  "name": "bijuu",
+  "version": "0.0.1",
+  "description": "Hacktiv8 Live Code Interactive Learning Companion",
+  "main": "bin/index.js",
+  "bin": {
+    "bijuu": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hacktiv8",
+    "bijuu",
+    "generator",
+    "cli",
+    "naruto"
+  ],
+  "author": "Adrianto Irawan",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^8.5.2",
+    "commander": "^15.0.0",
+    "figlet": "^1.11.0",
+    "gradient-string": "^3.0.0",
+    "ora": "^9.4.0",
+    "picocolors": "^1.1.1"
+  }
+}
